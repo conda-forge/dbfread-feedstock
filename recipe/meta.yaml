@@ -1,8 +1,8 @@
 {%set name = "dbfread" %}
-{%set version = "2.0.0" %}
+{%set version = "2.0.7" %}
 {%set compress_type = "tar.gz" %}
 {%set hash_type = "sha256" %}
-{%set hash_val = "e36c249f41b21ba3797837b5762a658e99221e95404e5212baaae9591050d40a" %}
+{%set hash_val = "07c8a9af06ffad3f6f03e8fe91ad7d2733e31a26d2b72c4dd4cfbae07ee3b73d" %}
 {%set build_num = "0" %}
 
 package:
